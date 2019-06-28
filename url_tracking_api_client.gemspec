@@ -6,8 +6,8 @@ require 'url_tracking_api_client/version'
 Gem::Specification.new do |spec|
   spec.name          = 'url_tracking_api_client'
   spec.version       = UrlTrackingApiClient::VERSION
-  spec.authors       = ['Activation Team']
-  spec.email         = ['activation@tinypulse.com']
+  spec.authors       = ["TINYpulse Devops"]
+  spec.email         = ["devops@tinypulse.com"]
 
   spec.summary       = 'API client for Url Tracking project'
   spec.description   = 'An API Client for Url Tracking built on top of tiny_client'
