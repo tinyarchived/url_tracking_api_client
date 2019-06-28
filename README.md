@@ -1,5 +1,7 @@
 # Url Tracking Api Client
 
+[![Build Status](https://travis-ci.org/TINYhr/url_tracking_api_client.svg?branch=master)](https://travis-ci.org/TINYhr/url_tracking_api_client)
+
 Ruby API Client for [Url Tracking](https://url-tracking.tinypulse.com)
 
 ## Installation
